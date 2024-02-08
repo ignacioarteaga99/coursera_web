@@ -10,8 +10,8 @@ Repository of Ignacio Arteaga with the solutions to each module of the [course](
 |----------|-------------------|
 | Module 2 | Solution [here](https://ignacioarteaga99.github.io/coursera_web/module2-solution/) |
 | Module 3 | Solution [here](https://ignacioarteaga99.github.io/coursera_web/module3-solution/) |
-| Module 4 | Solution [here]() |
-| Module 5 | Solution [here]() |
+| Module 4 | Solution [here](https://ignacioarteaga99.github.io/coursera_web/module4-solution/) |
+| Module 5 | Solution [here](https://ignacioarteaga99.github.io/coursera_web/module5-solution/) |
 
 
 
